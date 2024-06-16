@@ -1,0 +1,19 @@
+# Ignore compiled bytecode files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore build output directories
+bin/
+target/
+
+# Ignore Maven specific files
+mvnw
+mvnw.cmd
+.mvn/
